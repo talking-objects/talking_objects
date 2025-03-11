@@ -1,0 +1,159 @@
+Title: Entities
+
+----
+
+Theme-title: Unveiling the Depths of
+
+----
+
+About-knowledge:
+
+About Knowledge
+ Lorem ipsum dolor sit amet, consecte
+
+----
+
+About-resitution: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+
+----
+
+About-identity: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+
+----
+
+About-artisticreflections: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+
+----
+
+About-memory: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+
+----
+
+Option1: African Philosophy Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco d tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor rud exercitation ullamco d tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor safsadf sfasd sdf asdf asd
+
+----
+
+Option2: Healing Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamsmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor
+
+----
+
+Option3: Performance Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consecta aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor
+
+----
+
+Option4: African Cities Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet,
+
+----
+
+Option5: Nature Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit am
+
+----
+
+Option6: Black studies Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud e
+
+----
+
+Option7: Indigenous culture Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut laboiam, quis nostrud exercitation ullamco laborisLorem ipsum dolor
+
+----
+
+Option8: Museum Practice Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun
+
+----
+
+Option9: Archive Practice Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+
+----
+
+Option10: Afro-feminism Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitati
+
+----
+
+Option11: Colonial violence Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dd tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor
+
+----
+
+Option12: Indigenous Aesthetics Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
+
+----
+
+Option13:
+
+Music
+Lorem ipsum dorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor
+
+----
+
+Option14: Performance/ Spoken Word Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor sit amet, consectetur adipiscing elit, s
+
+----
+
+Option15: Oral History Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolobore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisLorem ipsum dolor
+
+----
+
+Explore-title: Explore the Talking Objects
+
+----
+
+Explore-header-text:
+
+‘Talking Objects’ refers to how material and immaterial things interact and the conversations that come from these interactions. You can therefore explore the ARCHIVE in multiple ways.
+
+One, use the themes, sub-themes, objects, and contributors as entry points. Two, filter the contents of the ARCHIVE according to your interests. Three, approach the ARCHIVE as a creator by using it as a map for your possible contributions. Four, click items at random and choose your own adventure!
+
+----
+
+Relation-title1: Objects in conversation with Lab Conversations
+
+----
+
+Relation-title2: 
+
+----
+
+Curateditem-btn-text: Curated Items
+
+----
+
+Knowledge-btn-text: Knowledge Items
+
+----
+
+Sub-african-philosophy: African Philosophy
+
+----
+
+Sub-healing: Healing
+
+----
+
+Sub-performance: Performance
+
+----
+
+Sub-african-cities: African Cities
+
+----
+
+Sub-nature: Nature
+
+----
+
+Sub-black-studies: Black studies
+
+----
+
+Sub-indigenous-culture: Indigenous culture
+
+----
+
+Sub-afircan-philosophy: African Philosophy
+
+----
+
+Theme-titlt: Unveiling the Depths of
+
+----
+
+Uuid: 1BK344oAeF5fkSWK

@@ -1,0 +1,87 @@
+title: Default Page
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      fields:
+        type: fields
+        fields:
+          info_nav:
+            label:
+            type: info
+            text: Navigation Bar
+          nav_title: 
+            type: text
+            label: Title Button
+            width: 1/3
+            required: true
+          nav_menu: 
+            type: text
+            label: Menu Button
+            width: 1/3
+            required: true
+          nav_3d: 
+            type: text
+            label: 3D View Button
+            width: 1/3
+            required: true
+          info_meta:
+            label:
+            type: info
+            text: Metadata
+          meta_title: 
+            required: true
+            type: text
+            label: Meta Title(High Priority)
+            width: 1/2
+          meta_description: 
+            required: true
+            type: textarea
+            buttons: false
+            label: Meta Description(High Priority)
+            width: 1/2
+          meta_image: 
+            required: true
+            type: files
+            label: Meta openGraph Image(High Priority)
+            help: "Maximum file size. 200KB, Minimum recommended size: 1200x630 pixels Maximum recommended image size: 1200x630 pixels or larger (maintaining a 1.91:1 ratio)"
+            max: 1
+            image:
+              ratio: 1/1
+              cover: true
+            uploads:
+              template: object-meta
+          meta_subject: 
+            type: text
+            label: Meta Subject
+            width: 1/2
+          meta_keyword: 
+            type: tags
+            label: Meta Keywords
+            width: 1/2
+            max: 5
+            help: Max 5
+          meta_author: 
+            type: text
+            label: Meta Author
+            width: 1/2
+          meta_copyright: 
+            type: text
+            label: Meta Copyright
+            width: 1/2
+          # files:
+          #   type: files
+          #   layout: list
+          #   # template: object-file # 특정 파일 템플릿 사용 (선택 사항)
+          #   max: 100 # 한 번에 표시할 최대 파일 수
+          #   query: kirby.page('imgs').files # 사이트 전체의 파일을 표시
+          #   info: "{{ file.size }} KB | {{ file.modified('d.m.Y') }}" # 추가 파일 정보 표시
+          #   image:
+          #     ratio: 16/9
+          #     cover: true
+          #   actions:
+          #     delete: true # 파일 삭제 허용
+          #     replace: true # 파일 교체 허용
+          #     upload: false # 새 파일 업로드 비활성화
+          #   sortBy: modified desc # 최근 수정된 파일부터 정렬

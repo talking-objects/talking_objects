@@ -1,0 +1,25 @@
+Title: p1
+
+----
+
+Fullname: Elsa M'Bala
+
+----
+
+Jobtitle: Designer
+
+----
+
+Person-category: creator
+
+----
+
+Coverimage: - file://Z02mZaG0trABGfDT
+
+----
+
+Bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna eget est lorem ipsum dolor sit amet. Mi tempus imperdiet nulla malesuada pellentesque. Tortor vitae purus faucibus ornare suspendisse sed. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Porta non pulvinar neque l
+
+----
+
+Uuid: usk1532n0EGfKcpw

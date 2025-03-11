@@ -1,0 +1,51 @@
+title: Object Cover
+accept:
+  extension: jpg, png, jpeg, webp
+  maxsize: 15000000 # 15MB
+fields:
+  caption:
+    label: Caption
+    type: text
+  alt:
+    label: Alternative Text
+    type: text
+  copyright: 
+    label: copyright
+    type: text
+  layer1_left:
+    label: Layer 1 Left
+    type: number
+    width: 1/4
+    default: 30
+    min: 0
+    max: 100
+    step: 1
+    translate: false
+  layer1_right:
+    label: Layer 1 Top
+    type: number
+    width: 1/4
+    default: 40
+    min: 0
+    max: 100
+    step: 1
+    translate: false
+  layer2_left:
+    label: Layer 2 Left
+    type: number
+    width: 1/4
+    default: 90
+    min: 0
+    max: 100
+    step: 1
+    translate: false
+  layer2_right:
+    label: Layer 2 Top
+    type: number
+    width: 1/4
+    default: 90
+    min: 0
+    max: 100
+    step: 1
+    translate: false
+

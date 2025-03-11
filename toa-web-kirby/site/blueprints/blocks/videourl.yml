@@ -1,0 +1,14 @@
+name: Video
+label: Video
+wysiwyg: true
+preview: fields
+icon: file-video
+fields:
+  link:
+    type: url
+    required: true
+    help: Video Link for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia, Mixcloud, DailyMotion and Kaltura.
+  text:
+    label: Caption
+    required: false
+    type: text

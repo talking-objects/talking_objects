@@ -1,0 +1,16 @@
+name: Text
+label: Text
+icon: text
+wysiwyg: true
+preview: fields
+fields:
+   text:
+      label: Text
+      type: textarea
+      required: true
+      buttons: 
+         - bold 
+         - ul
+         - link
+         # - ol
+     

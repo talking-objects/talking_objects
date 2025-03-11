@@ -1,0 +1,123 @@
+Title: obj1
+
+----
+
+Coverimage: - file://Z02mZaG0trABGfDT
+
+----
+
+Cover-xray: false
+
+----
+
+Cover-text: Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor
+
+----
+
+Preview-text: 
+
+----
+
+Cover-source: 
+
+----
+
+Object-file-type: textonly
+
+----
+
+Object-file: https://www.youtube.com/watch?v=BXoxxXEyUVs
+
+----
+
+Object-image: 
+
+----
+
+Object-image-layout: false
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: obj4, obj5, obj8, obj10, obj6, obj3
+
+----
+
+Relatedobjs: obj6
+
+----
+
+Creator: p1, p5
+
+----
+
+Contributor: 
+
+----
+
+Contents: [{"content":{"level":"h2","text":"sdfasdfsdaf"},"id":"a69ff296-07e6-4a46-a828-914bd5f7ad7d","isHidden":false,"type":"heading"},{"content":{"text":"dd"},"id":"9640124c-c46b-4e17-b1e9-689fe0f0a9bf","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>d</li></ul>"},"id":"6a910eac-487e-4c78-86ac-08f8fef32481","isHidden":false,"type":"list"},{"content":{"text":"","citation":""},"id":"2bdf9e28-d294-4ff4-affc-cf5e08e329af","isHidden":false,"type":"quote"},{"content":{"footnote_text":"d"},"id":"27d38796-7aa3-4dc5-8509-a4a9570a86ab","isHidden":false,"type":"footnote"},{"content":{"irritated_text":"d","my_text":"d","text_source":"d"},"id":"630793cf-759d-4e6a-bbbb-3fb8f4357cc6","isHidden":false,"type":"irritatedtext"},{"content":{"irritated_text":"d","text_source":"d"},"id":"634529ff-641e-4589-9e00-5165c063c820","isHidden":false,"type":"irritatedquote"},{"content":{"chat_structure":[{"question":"d","answer":"d","answer_text_source":"d"}]},"id":"364aa297-4713-4d4b-b0e5-131b29307c01","isHidden":false,"type":"chatbox"},{"content":{"my_text":"d","text_source":"d"},"id":"57998977-7a23-4322-aba9-d4d30e2f6bc6","isHidden":false,"type":"xraytext"},{"content":{"link":"https://www.youtube.com/watch?v=hrC-0tY6ju8","text":""},"id":"2f024aee-e14d-4256-9605-a7024821a2ff","isHidden":false,"type":"videourl"}]
+
+----
+
+Entity-type: knowledge
+
+----
+
+Coretheme: knowledge, resitution, artisticreflections
+
+----
+
+Subtheme: option1
+
+----
+
+Dynamic-category:
+
+- 
+  category_box_name: material
+  category_box: test2, test1
+- 
+  category_box_name: testcate2
+  category_box: test2
+- 
+  category_box_name: dain1
+  category_box: item1
+
+----
+
+Number-toa: dsfsadf
+
+----
+
+Year-of-object: 2022-01-01
+
+----
+
+Provenance: 
+
+----
+
+Source-of-origin: 
+
+----
+
+Date-of-collection: 
+
+----
+
+Measurse: 
+
+----
+
+Location: 
+
+----
+
+Glossary-of-entity: 
+
+----
+
+Uuid: fM2nvPUa5pyPUK2d

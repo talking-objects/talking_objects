@@ -1,0 +1,23 @@
+title: Site
+
+# sections:
+#   pages:
+#     type: pages
+sections:
+  specific_pages:
+    label: Collections
+    type: pages
+    status: all
+    query: site.index.filterBy('intendedTemplate', 'in', ['objects', 'glossary', 'person'])
+  others_pages:
+    label: Pages
+    type: pages
+    status: all
+    query: site.index.filterBy('intendedTemplate', 'in', ['home', 'about', 'footer', 'playground', 'team', 'manifesto', 'info', 'contributors'])
+  etc_pages:
+    label: ETC
+    type: pages
+    status: all
+    query: site.index.filterBy('intendedTemplate', 'in', ['navigationbar'])
+
+

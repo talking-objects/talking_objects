@@ -1,0 +1,17 @@
+Title: Playground
+
+----
+
+Playground-title: Talking Objects Playground
+
+----
+
+Playground-header-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+
+----
+
+Playground-header-btn: Enter Playground
+
+----
+
+Uuid: Il7bct8vn6oedhv6

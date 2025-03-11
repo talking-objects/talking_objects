@@ -1,0 +1,32 @@
+title: Person
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      drafts:
+        headline: Draft
+        type: pages
+        text: "Name: {{page.title}}"
+        layout: cards
+        status: drafts
+        templates: persontemplate
+        limit: 5
+        sortBy: title asc
+        image:
+          ratio: 1/1
+          cover: true
+          query: page.coverimage.toFile
+      publisched:
+        headline: Public
+        type: pages
+        text: "Name: {{page.title}}"
+        layout: cards
+        status: published
+        templates: persontemplate
+        limit: 20
+        sortBy: title asc
+        image:
+          ratio: 1/1
+          cover: true
+          query: page.coverimage.toFile

@@ -1,0 +1,11 @@
+title: Object Cover
+accept:
+  extension: pdf
+  maxsize: 15000000 # 15MB
+fields:
+  caption:
+    label: Caption
+    type: text
+  alt:
+    label: Alternative Text
+    type: text

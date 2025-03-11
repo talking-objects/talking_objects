@@ -1,0 +1,53 @@
+title: Glossary
+
+tabs:
+  glossarytab:
+    label: Glossary Terms
+    icon: upload
+    columns:
+      glossarys:
+        sections:
+          glossary_fields:
+            type: fields
+            fields:
+              glossary_list:
+                type: structure
+                sortBy: word_name asc
+                fields:
+                  word_name:
+                    type: text
+                    label: Term
+                    width: 1/1
+                    required: true
+                  word_about:
+                    type: textarea
+                    required: true
+                    buttons: 
+                      - bold 
+                      - ul
+                      - link
+  glossarytexttab:
+    label: Glossary Page Text
+    icon: text
+    columns:
+      glossary_about:
+        sections:
+          fields:
+            type: fields
+            fields:
+              glossary_title:
+                type: text
+                label: Glossary Page title
+                required: true
+              glossary_header_text:
+                type: textarea
+                label: Glossary Page header text
+                buttons: false
+                required: true
+              
+
+
+
+
+
+

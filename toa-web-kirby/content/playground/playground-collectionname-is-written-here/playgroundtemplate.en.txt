@@ -1,0 +1,29 @@
+Title: Playground Collectionname is written here
+
+----
+
+Timestamp: 2024-09-06
+
+----
+
+Author: Dain Park
+
+----
+
+Coverimage: - file://xmfuebUS0qJcuI5M
+
+----
+
+Playground-item-blurb: Annotations here labore et dolore magna aliqua. Ut enim ad minim veniam, Annotations here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumAnnotations here labore et dolore magna aliqua. Ut enderit in voluptate velit esse cillumquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+
+----
+
+Contents: [{"content":{"collection_obj_title":"test","collection_obj":"obj1","collection_obj_text":""},"id":"a534693a-7d8a-4111-a873-a32779b9acb4","isHidden":false,"type":"obj"}]
+
+----
+
+Glossary-of-playground: object, Art
+
+----
+
+Uuid: tierjCguK6syCDEp

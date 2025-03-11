@@ -1,0 +1,327 @@
+title: Objects
+
+tabs:
+# drafts tab
+  draftstab:
+    label: Upload & Inactive Entities List
+    icon: upload
+    columns:
+      objects:
+        width: 1/1
+        sections:
+          drafts:
+            headline: Upload Entities & Update Entities
+            type: pages
+            help: 💡Update to public
+            layout: list
+            status: drafts
+            sortBy: title asc
+            templates:
+              - objecttemplate
+            limit: 20
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+
+# test tab
+  publictab:
+    label: Public Entities
+    icon: file-document
+    columns:
+      objects:
+        width: 1/1
+        sections:
+          publisched0:
+            headline: "Public: Knowledge"
+            type: pages
+            text: "Name: {{page.title}}"
+            # info: "CT: {{page.intendedTemplate}}"
+            layout: cards
+            status: published
+            query: page("objects").children.filterBy('coretheme', '*=', 'knowledge')
+            limit: 10
+            sortBy: title asc
+            # when:
+            #   categoryobj: all
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+          publisched01:
+            headline: "Public: Restitution and Reclamation"
+            type: pages
+            text: "Name: {{page.title}}"
+            # info: "CT: {{page.intendedTemplate}}"
+            layout: cards
+            status: published
+            query: page("objects").children.filterBy('coretheme', '*=', 'resitution')
+            limit: 10
+            sortBy: title asc
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+          publisched02:
+            headline: "Public: Identity"
+            type: pages
+            text: "Name: {{page.title}}"
+            # info: "CT: {{page.intendedTemplate}}"
+            layout: cards
+            status: published
+            query: page("objects").children.filterBy('coretheme', '*=', 'identity')
+            limit: 10
+            sortBy: title asc
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+          publisched03:
+            headline: "Public: Artistic Reflections"
+            type: pages
+            text: "Name: {{page.title}}"
+            # info: "CT: {{page.intendedTemplate}}"
+            layout: cards
+            status: published
+            query: page("objects").children.filterBy('coretheme', '*=', 'artisticreflections')
+            limit: 10
+            sortBy: title asc
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+          publisched04:
+            headline: "Public: Memory and the Imaginary"
+            type: pages
+            text: "Name: {{page.title}}"
+            # info: "CT: {{page.intendedTemplate}}"
+            layout: cards
+            status: published
+            query: page("objects").children.filterBy('coretheme', '*=', 'memory')
+            limit: 10
+            sortBy: title asc
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+# text tab
+  teamtexttab:
+    label: Text for core theme page
+    icon: text
+    columns:
+     about:
+      sections:
+        fields:
+          type: fields
+          fields:
+           theme_title:
+            type: text
+            width: 1/1
+            label: "Theme Page title (Unveiling the Depths of)"
+            required: true
+           about_knowledge:
+            width: 1/1
+            type: textarea
+            label: About Knowledge
+            buttons: false
+            required: true
+            # maxlength: 530
+           about_resitution:
+            width: 1/2
+            type: textarea
+            label: About Resitution
+            buttons: false
+            required: true
+            # maxlength: 530
+           about_identity:
+            width: 1/2
+            type: textarea
+            label: About Identity
+            buttons: false
+            required: true
+            # maxlength: 530
+           about_artisticreflections:
+            width: 1/2
+            type: textarea
+            label: About Artisticreflections
+            buttons: false
+            required: true
+            # maxlength: 530
+           about_memory:
+            width: 1/2
+            type: textarea
+            label: About Memory
+            buttons: false
+            required: true
+            # maxlength: 530
+           info_subtheme:
+            type: info
+            text: About Sub theme
+            label: 
+           option1:
+            label: African Philosophy
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option2:
+            label: Healing
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option3:
+            label: Performance
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option4:
+            label: African Cities
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option5:
+            label: Nature
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option6:
+            label: Black studies
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option7:
+            label: Indigenous culture
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option8:
+            label: Museum Practice
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option9:
+            label: Archive Practice
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option10:
+            label: Afro-feminism
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option11:
+            label: Colonial violence
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option12:
+            label: Indigenous Aesthetics
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option13:
+            label: Music
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option14:
+            label: Performance/ Spoken Word
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+           option15:
+            label: Oral History
+            type: textarea
+            buttons: false
+            required: true
+            width: 1/2
+            # maxlength: 530
+# explore tab
+  exploretab:
+    label: Text for explore page
+    icon: text
+    columns:
+     about:
+      sections:
+        fields2:
+          type: fields
+          fields:
+           explore_title:
+            type: text
+            width: 1/1
+            label: "Explore Page title"
+            required: true
+           explore_header_text:
+            type: textarea
+            width: 1/1
+            label: "Explore Page header text"
+            buttons: false
+            required: true
+# explore tab
+  etctab:
+    label: ETC
+    icon: text
+    columns:
+     etc_about:
+      sections:
+        fields3:
+          type: fields
+          fields:
+            info_relation_component:
+              type: info
+              label: 
+              text: Text for Relation Component
+            relation_title1: 
+              type: text
+              buttons: false
+              required: true
+              label: Relation Component Text before Entity Title
+            relation_title2: 
+              type: text
+              buttons: false
+              required: false
+              label: Relation Component Text after Entity Title
+            curateditem_btn_text: 
+              type: text
+              width: 1/2
+              buttons: false
+              required: true
+              label: Curated Items Button Text
+            knowledge_btn_text: 
+              type: text
+              width: 1/2
+              buttons: false
+              required: true
+              label: Knowledge Items Button Text
+
+           
+
+
+

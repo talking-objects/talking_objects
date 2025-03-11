@@ -1,0 +1,35 @@
+title: Contributors
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      main_section:
+        type: fields
+        fields:
+          info_header:
+            type: info
+            label:
+            text: Contributors
+          team_title:
+            label: Contributors Title
+            type: text
+            required: true
+          team_header:
+            label: Contributors Header Text
+            type: textarea
+            buttons: false
+            required: true
+          info_content:
+            type: info
+            label:
+            text: Contributors Content
+          contents:
+            type: blocks
+            label: Contributors Content
+            translate: true
+            fieldsets:
+              - heading
+              - teamobject
+              - text
+

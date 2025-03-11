@@ -1,0 +1,103 @@
+Title: fff
+
+----
+
+Coverimage: 
+
+----
+
+Cover-text: 
+
+----
+
+Object-file-type: videourl
+
+----
+
+Object-file: 
+
+----
+
+Object-image: 
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: 
+
+----
+
+Relatedobjs: 
+
+----
+
+Creator: 
+
+----
+
+Contributor: 
+
+----
+
+Contents: 
+
+----
+
+Entity-type: 
+
+----
+
+Coretheme: 
+
+----
+
+Subtheme: 
+
+----
+
+Dynamic-category:
+
+- 
+  category_box_name: testcate
+  category_box: test1
+- 
+  category_box_name: testcate2
+  category_box: test2
+- 
+  category_box_name: testcate3
+  category_box: test3
+
+----
+
+Number-toa: 
+
+----
+
+Provenance: 
+
+----
+
+Source-of-origin: 
+
+----
+
+Date-of-collection: 
+
+----
+
+Measurse: 
+
+----
+
+Location: 
+
+----
+
+Glossary-of-entity: 
+
+----
+
+Uuid: A7yKAZkHFi7o7f7X

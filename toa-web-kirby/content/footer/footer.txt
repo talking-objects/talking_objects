@@ -1,0 +1,17 @@
+Title: Footer
+
+----
+
+Privacy: Privacy statement
+
+----
+
+Legal: Legal notice
+
+----
+
+Name: TOA
+
+----
+
+Uuid: wAEHnj1bRHlZvGfd

@@ -1,0 +1,25 @@
+Title: Sein
+
+----
+
+Fullname: Sein Park
+
+----
+
+Jobtitle: Cook
+
+----
+
+Person-category: contributor
+
+----
+
+Coverimage: - file://ZvECN1vFV7s5kHZd
+
+----
+
+Bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna eget est lorem ipsum dolor sit amet. Mi tempus imperdiet nulla malesuada pellentesque. Tortor vitae purus faucibus ornare suspendisse sed. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Porta non pulvinar neque l
+
+----
+
+Uuid: qn7CUlJU2xzyAvVf

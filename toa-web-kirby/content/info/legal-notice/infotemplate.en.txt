@@ -1,0 +1,17 @@
+Title: legal notice
+
+----
+
+Info-title: Legal Notice
+
+----
+
+Info-header-text: dfdfdf
+
+----
+
+Contents: [{"content":{"level":"h2","text":"Legal Notice"},"id":"a288e547-3c5b-42ed-a5fa-320cd3989b13","isHidden":false,"type":"heading"},{"content":{"text":"blablablalblalblalblalbla"},"id":"28d3f04b-78bc-48aa-8900-46d283ba52bf","isHidden":false,"type":"text"},{"content":{"for_logo":"false","image_content2":["file://Z02mZaG0trABGfDT"]},"id":"64b446bb-a63b-44d3-b865-3d3dc4265bf8","isHidden":false,"type":"cimg"},{"content":{"for_logo":"true","image_content2":["file://Z02mZaG0trABGfDT"]},"id":"9571ea1c-5c9b-496c-96da-79676892d59f","isHidden":false,"type":"cimg"}]
+
+----
+
+Uuid: 7boVMVGJCpe73f1v

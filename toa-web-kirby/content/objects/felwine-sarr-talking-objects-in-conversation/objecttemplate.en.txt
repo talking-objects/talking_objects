@@ -1,0 +1,128 @@
+Title: Felwine Sarr TALKING OBJECTS IN CONVERSATION
+
+----
+
+Coverimage: - file://Z02mZaG0trABGfDT
+
+----
+
+Cover-xray: true
+
+----
+
+Cover-text:
+
+Felwine Sarr and Magnus Elias Rosengarten talk about the traces of history, asymmetrical power relations, new ways of relating to each other – and 
+
+he power of archives. tellus. Proin fermentum quis diam in vulputate. Fusce sed tincidunt dui, nec blandit augue. Donec dapibus molestie nunc a mollis. Aliq
+
+
+
+
+
+
+uam erat volutpat. Nullam sem justo, euismod a fringilla sed, mollis sollicitudin lorem. Nunc ac velit mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ornare sit amet risus dictum facilisis.
+
+----
+
+Preview-text: preview text Rosengarten talk about the traces of history, asymmetrical power relations, new ways of relating to each other – and tsed tincidunt dui, nec blandit augue.
+
+----
+
+Cover-source: tellus. Proin fermentum quis diam in vulputate.
+
+----
+
+Object-file-type: videourl
+
+----
+
+Object-file: https://talkingobjects.0x2620.org/AY/480p1.mp4
+
+----
+
+Object-image: - file://Z02mZaG0trABGfDT
+
+----
+
+Object-image-layout: false
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: obj1, obj3, obj4
+
+----
+
+Relatedobjs: obj3, obj6, obj11, obj9
+
+----
+
+Creator: p1
+
+----
+
+Contributor: p1, Sein
+
+----
+
+Contents: [{"content":{"level":"h1","text":"TO_11_V Felwine Sarr TALKING OBJECTS IN CONVERSATION"},"id":"ec71e0b1-9ea9-4a17-82bc-900ea4b9cdca","isHidden":false,"type":"heading"},{"content":{"text":"r \n\nsit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Art Donec at pharetra arcu. Integer dapibus erat a erat laoreet, quis sodales dolor congue. Aliquam \n\nnec lacus fermentum magna fringilla luctus. Sed quis egestas turpis. Vestibulum ut erat eget augue pretium auctor object eget vitae felis.\n\nMaecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.\n\nMauris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicula et dui id elementum. Nulla facilisi. Etiam venenatis, lorem et condimentum varius, metus leo sagittis nibh, a sodales ipsum magna in nibh. Donec consectetur ligula at ex egestas, sit amet egestas lectus viverra. Etiam vehicula blandit ligula a scelerisque. Nam commodo mi pulvinar nisi convallis, in eleifend augue feugiat. Fusce nisl nisi, pharetra vel pretium sit amet, volutpat at nunc.\n\nSed mattis libero sodales, porttitor urna sed, bibendum lacus. Cras a mauris ut felis elementum efficitur. Quisque placerat orci ante, ut maximus enim dapibus at. Phasellus porttitor nisl quis lectus laoreet sollicitudin. Donec pharetra, augue a mattis pellentesque, neque turpis euismod erat, in tristique massa mi vitae lectus. Proin faucibus dui quis metus consequat aliquam. Fusce eu nibh purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis eget risus nec dui ultrices accumsan. Donec pellentesque porta ornare. Praesent pretium viverra art iaculis. Nunc mattis elit eu sollicitudin dictum. Praesent ac purus et erat sodales sollicitudin.\n\nNunc nec volutpat nunc. Mauris tempor sit amet quam varius feugiat. Ut ac libero tortor. In sed efficitur nibh. Morbi vel orci id enim posuere vulputate id quis eros. Donec vestibulum consectetur lacus eget tempor. Suspendisse mattis hendrerit leo. Nulla in velit eu tortor ullamcorper tincidunt non euismod tellus. Proin fermentum quis diam in vulputate. Fusce sed tincidunt dui, nec blandit augue. Donec dapibus molestie nunc a mollis. Aliquam erat volutpat. Nullam sem justo, euismod a fringilla sed, mollis sollicitudin lorem. Nunc ac velit mauris. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed ornare sit amet risus dictum facilisis.\n\nSed commodo egestas ex quis volutpat. Cras nisi nisl, imperdiet a iaculis sed, faucibus at dolor. Nullam et massa metus. Mauris a iaculis erat, quis tincidunt mi. Cras aliquet nibh a libero pellentesque, eu cursus neque auctor. Aliquam eu efficitur nisi. Pellentesque id faucibus enim. Proin sit amet pharetra elit. Fusce id est nec est tempus placerat. Praesent facilisis sapien purus, eu hendrerit est varius nec. Duis vestibulum blandit aliquet. Nulla vel augue a nibh condimentum luctus id a magna. Cras ac posuere arcu. Aenean laoreet odio ac justo fringilla, eget blandit dolor pretium. Donec vitae augue neque."},"id":"057c1801-87eb-4208-8dff-76a9134c5f71","isHidden":false,"type":"text"},{"content":{"text":"<ul><li>sadfsdf<br>dafsf<br><br><br><br>fasdfasdfsdf. asdflksad safasd f.      sadf<br>dafss </li></ul>"},"id":"40239fa1-2fc4-4c59-b38c-d13f6a414d2e","isHidden":false,"type":"list"},{"content":{"footnote_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Art Donec at pharetra arcu."},"id":"e6b15e1e-d8ba-478f-a9b3-609faf151386","isHidden":false,"type":"footnote"},{"content":{"text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis,","citation":"Dain Park"},"id":"0414e523-036c-4c22-a7c8-a7add3d59a65","isHidden":false,"type":"quote"},{"content":{"my_text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Donec at pharetra arcu. Integer dapibus erat a erat laoreet, quis sodales dolor congue. Aliquam nec lacus fermentum magna fringilla luctus. Sed quis egestas turpis. Vestibulum ut erat eget augue pretium auctor eget vitae felis. Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.\n\nMauris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicula et dui id elementum. Nulla facilisi. Etiam venenatis, lorem et condimentum varius, metus leo sagittis nibh, a sodales ipsum magna in nibh. Donec consectetur ligula at ex egestas, sit amet egestas lectus viverra. Etiam vehicula blandit ligula a scelerisque. Nam commodo mi pulvinar nisi convallis, in eleifend augue feugiat. Fusce nisl nisi, pharetra vel pretium sit amet, volutpat at nunc.\n\nSed mattis libero sodales, porttitor urna sed, bibendum lacus. Cras a mauris ut felis elementum efficitur. Quisque placerat orci ante, ut maximus enim dapibus at. Phasellus porttitor nisl quis lectus laoreet sollicitudin. Donec pharetra, augue a mattis pellentesque, neque turpis euismod erat, in tristique massa mi vitae lectus. Proin faucibus dui quis metus consequat aliquam. Fusce eu nibh purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis eget risus nec dui ultrices accumsan. Donec pellentesque porta ornare. Praesent pretium viverra iaculis. Nunc mattis elit eu sollicitudin dictum. Praesent ac purus et erat sodales sollicitudin.","text_source":"Text Source:  Praesent pretium viverra iaculis. Nunc mattis elit eu sollicitudin dictum. Praesent ac purus et erat sodales sollicitudin."},"id":"df0864c9-fce2-44a1-890c-35ec88af2bc5","isHidden":false,"type":"xraytext"},{"content":[],"id":"3d056ae4-588a-4752-9ac7-4ea15be6d1de","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Felwine Sarr and Magnus Elias Rosengarten talk..."},"id":"b7f237a5-9191-4b1c-b0bc-709df2199cd0","isHidden":false,"type":"heading"},{"content":{"link":"https://talkingobjects.0x2620.org/AS/480p1.mp4","text":"toa"},"id":"e7dd1171-cb1e-4892-8cef-956cfa6d380d","isHidden":false,"type":"videourl"},{"content":{"chat_structure":[{"question":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam ?","answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Donec at pharetra arcu. Integer dapibus erat a erat laoreet, quis sodales dolor congue. Aliquam nec lacus fermentum magna fringilla luctus. Sed quis egestas turpis. Vestibulum ut erat eget augue pretium auctor eget vitae felis. Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.","answer_text_source":"Lorem ipsum dolor sit amet,"},{"question":"Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.?","answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Donec at pharetra arcu.","answer_text_source":"Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem."},{"question":"Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.","answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Donec at pharetra arcu. Integer dapibus erat a erat laoreet, quis sodales dolor congue. Aliquam nec lacus fermentum magna fringilla luctus. Sed quis egestas turpis. Vestibulum ut erat eget augue pretium auctor eget vitae felis. Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed suscipit eros. Ut laoreet enim non arcu sagittis, sit amet molestie quam lacinia. Donec at pharetra arcu. Integer dapibus erat a erat laoreet, quis sodales dolor congue. Aliquam nec lacus fermentum magna fringilla luctus. Sed quis egestas turpis. Vestibulum ut erat eget augue pretium auctor eget vitae felis. Maecenas eu lacinia ante, vel mattis erat. Nullam at odio mollis, feugiat felis ac, tincidunt sem.","answer_text_source":"Lorem ipsum dolor sit amet,"}]},"id":"397ba88c-64f9-483e-ad6b-25cc3ada5a24","isHidden":false,"type":"chatbox"},{"content":{"level":"h5","text":"Material"},"id":"9bfa0d92-155b-466e-b5fd-78155235f513","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Material </li><li>Wood</li><li>Iron</li></ul>"},"id":"701b1c63-dcb8-490e-a9c3-39be03f97147","isHidden":false,"type":"list"},{"content":{"special_link":"https://talkingobjects.0x2620.org","link_text":"asdfasdfsa sdf as sdf s s dfa sd "},"id":"2a619710-7319-4153-b212-d85cb0857e0b","isHidden":false,"type":"speciallink"},{"content":{"irritated_text":"auris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicula et dui id elementum. Nulla facilisi. Etiam venenatis, lorem et condimentum varius, metus leo sagittis nibh, a sodales ipsum magna in nibh. Donec consectetur ligula at ex egestas, sit amet egestas lectus viverra. Etiam vehicula blandit ligula a scelerisque. Nam commodo mi pulvinar nisi convallis, in eleifend augue feugiat. Fusce nisl nisi, pharetra vel pretium sit amet, volutpat at nunc.\n\nSed mattis libero sodales, porttitor urna sed, bibendum lacus. Cras a mauris ut felis elementum efficitur. Quisque placerat orci ante, ut maximus enim dapibus at. Phasellus porttitor nisl quis lectus laoreet sollicitudin. Donec pharetra, augue a mattis pellentesque, neque turpis euismod erat, in tristique massa mi vitae lectus. Proin faucibus dui quis metus consequat aliquam. Fusce eu nibh purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis eget risus nec dui ultrices accumsan. Donec pellentesque porta ornare. Praesent pretium viverra iaculis. Nunc mattis elit eu sollicitudin dictum. Praesent ac purus et erat sodales sollicitudin.","my_text":"auris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicula et dui id elementum. Nulla facilisi. Etiam venenatis, lorem et condimentum varius, metus leo sagittis nibh, a sodales ipsum magna in nibh. Donec consectetur ligula at ex egestas, sit amet egestas lectus viverra. Etiam vehicula blandit ligula a scelerisque. Nam commodo mi pulvinar nisi convallis, in eleifend augue feugiat. Fusce nisl nisi, pharetra vel pretium sit amet, volutpat at nunc.\n\nSed mattis libero sodales, porttitor urna sed, bibendum lacus. Cras a mauris ut felis elementum efficitur. Quisque placerat orci ante, ut maximus enim dapibus at. Phasellus porttitor nisl quis lectus laoreet sollicitudin. Donec pharetra, augue a mattis pellentesque, neque turpis euismod erat, in tristique massa mi vitae lectus. Proin faucibus dui quis metus consequat aliquam. Fusce eu nibh purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis eget risus nec dui ultrices accumsan. Donec pellentesque porta ornare. Praesent pretium viverra iaculis. Nunc mattis elit eu sollicitudin dictum. Praesent ac purus et erat sodales sollicitudin.","text_source":"auris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicul"},"id":"fee2f12e-d53b-4370-bdeb-cf32dad48ce8","isHidden":false,"type":"irritatedtext"},{"content":{"irritated_text":"auris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicul","text_source":"auris feugiat eros non metus sodales, eget vulputate ex varius. Maecenas nec tempus risus. Cras vehicul"},"id":"14583103-d7bb-4af9-ae8c-0af00a209879","isHidden":false,"type":"irritatedquote"},{"content":{"special_link":"https://example.ocm","link_text":"asfsadfsfs. asfs test sdfsd sdf sfdsfa ssdf ssfd ssdf s"},"id":"907a35e7-cbcc-4ecd-914a-dabc6161cc4e","isHidden":false,"type":"speciallink"}]
+
+----
+
+Entity-type: object
+
+----
+
+Coretheme: resitution, identity
+
+----
+
+Subtheme: option1, option2
+
+----
+
+Dynamic-category:
+
+- 
+  category_box_name: mate3
+  category_box: iron, wood
+
+----
+
+Number-toa: t01
+
+----
+
+Year-of-object: 1234
+
+----
+
+Provenance: test-p
+
+----
+
+Source-of-origin: test
+
+----
+
+Date-of-collection: g01234
+
+----
+
+Measurse: 12X123cm
+
+----
+
+Location: berlin
+
+----
+
+Glossary-of-entity: object, Art
+
+----
+
+Uuid: cwDL2fLP0m0N8CIq

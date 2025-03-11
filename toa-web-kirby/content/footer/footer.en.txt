@@ -1,0 +1,48 @@
+Title: Footer
+
+----
+
+Footer-about:
+
+TALKING OBJECTS LAB will be part of the project TALKING OBJECTS initiated by Isabel Raabe. TALKING OBJECTS also includes the TALKING OBJECTS ARCHIVE, a digital archive for decolonial knowledge production, which is scheduled to go online in 2024.
+Das TALKING OBJECTS LAB wird Teil des von Isabel Raabe initiierten Projekts TALKING OBJECTS sein. TALKING OBJECTS beinhaltet auch das TALKING OBJECTS ARCHIVE, ein digitales Archiv für dekoloniale Wissensproduktion, das 2024 online gehen soll.
+
+----
+
+Footer-contact-name: Isabel Raabe & African Digital Heritage
+
+----
+
+Footer-contact-email: zndgn555@gmail.com
+
+----
+
+Footer-contact-meta: https://facebook.com
+
+----
+
+Footer-contact-instagram: https://instagram.com
+
+----
+
+Privacy: Privacy statement
+
+----
+
+Legal: Legal notice
+
+----
+
+Name: talking objects
+
+----
+
+Footer-optional-page:
+
+- 
+  o_name: blabal
+  o_url: https://example.com
+
+----
+
+Uuid: RCJaa3s28gaV3QY4

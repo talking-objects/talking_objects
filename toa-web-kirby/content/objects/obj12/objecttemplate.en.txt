@@ -1,0 +1,109 @@
+Title: obj12
+
+----
+
+Coverimage: 
+
+----
+
+Cover-xray: false
+
+----
+
+Cover-text: sadfsdf
+
+----
+
+Cover-source: 
+
+----
+
+Object-file-type: imagefile
+
+----
+
+Object-file: https://www.exmaple.com
+
+----
+
+Object-image: - file://ZXoEfsxLB6tcxaeG
+
+----
+
+Object-image-layout: true
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: 
+
+----
+
+Relatedobjs: 
+
+----
+
+Creator: p1
+
+----
+
+Contributor: p1
+
+----
+
+Contents: [{"content":{"link":"https://www.example.com","text":"sadfsdf"},"id":"6b44025b-d8d3-46c5-bc73-6ad378b9e6d8","isHidden":false,"type":"videourl"},{"content":{"link":"https://www.youtube.com/watch?v=wXnqgI_L4s0","text":"asdfasdfsadf"},"id":"80d80741-d9b8-4bf1-bdde-954e97774f2e","isHidden":false,"type":"videourl"}]
+
+----
+
+Entity-type: knowledge
+
+----
+
+Coretheme: resitution
+
+----
+
+Subtheme: option1, option3, option2
+
+----
+
+Dynamic-category:
+
+- 
+  category_box_name: mate3
+  category_box: iron, wood
+
+----
+
+Number-toa: 
+
+----
+
+Provenance: 
+
+----
+
+Source-of-origin: 
+
+----
+
+Date-of-collection: 
+
+----
+
+Measurse: 
+
+----
+
+Location: 
+
+----
+
+Glossary-of-entity: 
+
+----
+
+Uuid: HiBlmkFt6wjHRcYT

@@ -1,0 +1,44 @@
+title: About
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      about_section:
+        type: fields
+        fields:
+          about_title:
+            type: text
+            label: About page title
+            required: true
+          about_header:
+            type: textarea
+            label: About page header text
+            buttons: false
+            required: true
+          contents:
+            type: blocks
+            label: About Contents
+            fieldsets:
+              obj:
+                label: Objects
+                type: group
+                fieldsets:
+                  - type: obj
+                    wysiwyg: true
+                    preview: fields
+                    name: About Block
+                    icon: box
+                    fields:
+                      about_box_title:
+                        label: Title
+                        type: text
+                        required: true
+                      about_box_text:
+                        label: Text
+                        type: textarea
+                        required: true
+                        buttons: 
+                          - bold 
+                          - ul
+                          - link

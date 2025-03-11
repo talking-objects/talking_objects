@@ -1,0 +1,83 @@
+title: Footer
+
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      footer:
+        type: fields
+        fields:
+          footer_about:
+            type: textarea
+            buttons: false
+            label: Footer About Text
+            required: true
+          info_contact:
+            type: info
+            label: 
+            text: Contact
+          footer_contact_name:
+            type: text
+            label: Contact Name
+            buttons: false
+            width: 1/2
+            required: true
+          footer_contact_email:
+            type: email
+            label: Contact Email
+            buttons: false
+            width: 1/2
+            required: true
+          footer_contact_meta:
+            type: link
+            label: Contact Meta(facebook)
+            buttons: false
+            width: 1/2
+            required: false
+          footer_contact_instagram:
+            type: link
+            label: Contact Instagram
+            buttons: false
+            width: 1/2
+            required: false
+          info_other:
+            type: info
+            label: 
+            text: Other
+          privacy:
+            label: Privacy statement
+            width: 1/3
+            type: text
+            buttons: false
+            required: true
+          legal:
+            label: Legal notice
+            width: 1/3
+            type: text
+            buttons: false
+            required: true
+          name:
+            label: Copyright
+            width: 1/3
+            type: text
+            buttons: false
+            required: true
+          info_optional_page:
+            type: info
+            label: 
+            text: Other page(optional)
+          footer_optional_page:
+            label: Optional page
+            type: structure
+            fields: 
+              o_name: 
+                label: Name
+                type: text
+                buttons: false
+                required: true
+              o_url: 
+                label: Link
+                type: link
+                buttons: false
+                required: true

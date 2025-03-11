@@ -1,0 +1,17 @@
+Title: Teams
+
+----
+
+Team-title: Faces behind Talking Objects
+
+----
+
+Team-header: The TALKING OBJECTS LAB series includes exhibitions, think tanks, performances, symposia and artistic interventions in Germany and on the African continent. A growing network of artists and scholars is emerging, especially from the African continent and the African diasporas in Europe. These are the participating artists, speakers and moderators
+
+----
+
+Contents: [{"content":{"level":"h2","text":"Toa Teams"},"id":"ed1254aa-c36a-45c8-a65a-824a77829e27","isHidden":false,"type":"heading"},{"content":{"team_title":"Curational Team","team_about":"","teams":"Dain, Sein, p1, p2, p3, p5, p6"},"id":"e1a1c21a-fe25-4666-92c1-9b19fb0351c2","isHidden":false,"type":"obj"},{"content":{"team_title":"Test Teram","team_about":"test team abou","teams":"Dain"},"id":"3b6871f0-d83d-4ae9-88f7-6f54fa1dd2fa","isHidden":false,"type":"obj"},{"content":{"team_title":"test Team2","team_about":"sadf","teams":"p5, p2, p1, p6"},"id":"97c78300-8f18-4456-a5ae-7f87e1e340cb","isHidden":false,"type":"obj"},{"content":{"team_title":"d","team_about":"","teams":"p2"},"id":"e88d6b1a-ecf5-47a2-a5ab-fc54ae225e9d","isHidden":false,"type":"obj"},{"content":{"text":"blabjklaskjdflksajdf\ndlkfajalsd dsalkfjlsakdf. sdafklj\nldkfjaskl.  dslfjasdklfjasldkf\n(link: https://example.com text: dsafdf)"},"id":"2427c355-1e9b-4453-9539-b483a07abe98","isHidden":false,"type":"text"},{"content":{"team_title":"sdaf","team_about":"","teams":"p6"},"id":"4cb02b99-ace1-4c17-8fde-9af2f1545397","isHidden":false,"type":"obj"}]
+
+----
+
+Uuid: E4AtBoYS1dWKFZrt

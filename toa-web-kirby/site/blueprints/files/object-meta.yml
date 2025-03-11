@@ -1,0 +1,6 @@
+title: MetaImage
+accept:
+  extension: jpg, png, jpeg, webp
+  maxsize: 200000 # 15MB
+
+

@@ -1,0 +1,17 @@
+Manifesto-title: Manifesto
+
+----
+
+Manifesto-header-text: TALKING OBJECTS LAB is an artistic research project dedicated to the decolonization of memory and knowledge, unfolding in think tanks, symposiums, artistic interventions, and exhibitions over several years.
+
+----
+
+Contents: [{"content":{"level":"h1","text":"H1 Manifesto Headline"},"id":"c86439b3-ea42-4b86-9a34-5c682907f447","isHidden":false,"type":"heading"},{"content":{"image_content2":["file://lNyJZRcNWFVhrQsq","file://QXAb9X7mm1N32tnD","file://qSniYEBEdjoDcAgK"]},"id":"e1cb17d3-d36f-4315-aa5a-44801ae9fa0b","isHidden":false,"type":"galleryimg"},{"content":{"text":"is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book art. It has survived art not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. art"},"id":"095da441-1c24-4859-9d58-a6e371ce2202","isHidden":false,"type":"text"}]
+
+----
+
+Glossary-of-manifesto: Art, sein, sfff
+
+----
+
+Uuid: GBOrUDVa2KJhuact

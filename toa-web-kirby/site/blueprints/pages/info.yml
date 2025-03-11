@@ -1,0 +1,45 @@
+title: Objects
+
+tabs:
+  draftstab:
+    label: Upload & Inactive Info/:Page List
+    icon: upload
+    columns:
+      objects:
+        width: 1/1
+        sections:
+          drafts:
+            headline: Upload Pages
+            type: pages
+            help: 💡Update to public
+            layout: list
+            status: drafts
+            text: "Page: {{page.title}}"
+            sortBy: title asc
+            templates:
+              - infotemplate
+            limit: 20
+
+# test tab
+  publictab:
+    label: Public Pages
+    icon: file-document
+    columns:
+      objects:
+        width: 1/1
+        sections:
+          publisched0:
+            headline: "Public: Knowledge"
+            type: pages
+            text: "Page: {{page.title}}"
+            layout: list
+            status: published
+            limit: 10
+            sortBy: title asc
+         
+
+
+           
+
+
+

@@ -1,0 +1,30 @@
+name: Single Image
+label: Single Image
+icon: image
+wysiwyg: true
+preview: fields
+fields:
+  for_logo:
+    type: toggle
+    label: Is this image meant to be used as a logo?
+    text:
+      - "no"
+      - "yes"
+    default: false
+  image_content2:
+    label: Image
+    type: files
+    layout: list
+    required: true
+    image:
+      ratio: 1/1
+      cover: true
+    width: 1/1
+    query: kirby.page('imgs').files.filterBy('type', 'image') 
+    max: 1
+    uploads:
+      parent: kirby.page('imgs')
+      template: object-cover
+    help: max file size 5mb
+   
+   

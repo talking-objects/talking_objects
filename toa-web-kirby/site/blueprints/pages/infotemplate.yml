@@ -1,0 +1,58 @@
+title: InfoTemplate
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      cover_section:
+        type: fields
+        fields:
+          info_header:
+            label:
+            type: info
+            text: Header
+          info_title:
+            type: text
+            label: Page title
+            required: true
+          info_header_text:
+            label: Page header text
+            type: textarea
+            buttons: false
+            required: false
+      main_section:
+        type: fields
+        fields:
+          contents:
+            type: blocks
+            fieldsets:
+               text:
+                label: Text
+                type: group
+                fieldsets:
+                  - heading
+                  - text
+                  - list
+                  - quote
+                  - footnote
+                  - irritatedtext
+                  - irritatedquote
+                  - speciallink
+                  - chatbox
+                  - xraytext
+               media:
+                label: Media
+                type: group
+                fieldsets:
+                  - cimg
+                  - galleryimg
+                  - videourl
+                  - pdfdownload
+                  - audio
+               etc:
+                label: Etc
+                type: group
+                fieldsets:
+                  - line
+ 
+ 

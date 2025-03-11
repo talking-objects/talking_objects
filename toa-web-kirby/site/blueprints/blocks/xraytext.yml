@@ -1,0 +1,19 @@
+name: Xray Text
+label: Xray Text
+icon: text
+wysiwyg: true
+preview: fields
+fields:
+ my_text:
+    width: 1/1
+    label: Text
+    type: textarea
+    required: true
+    buttons: false
+ text_source:
+    width: 1/1
+    label: Text Source
+    type: textarea
+    required: true
+    buttons: false
+     

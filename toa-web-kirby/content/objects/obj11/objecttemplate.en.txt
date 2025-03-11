@@ -1,0 +1,116 @@
+Title: obj11
+
+----
+
+Coverimage: 
+
+----
+
+Cover-xray: false
+
+----
+
+Cover-text: Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor
+
+----
+
+Preview-text: 
+
+----
+
+Cover-source: 
+
+----
+
+Object-file-type: videourl
+
+----
+
+Object-file: https://www.youtube.com/watch?v=BXoxxXEyUVs
+
+----
+
+Object-image: 
+
+----
+
+Object-image-layout: false
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: 
+
+----
+
+Relatedobjs: 
+
+----
+
+Creator: p1, p5
+
+----
+
+Contributor: 
+
+----
+
+Contents: [{"content":{"level":"h1","text":"H1 Headline"},"id":"a2a017aa-1484-4a4d-b78c-6e9f13e2d37c","isHidden":false,"type":"heading"},{"content":{"audio_contents":["file://xQn5II9iKM8egw32"],"captions":"test caption"},"id":"c68bb900-2f16-444c-bf73-f4984d4b9358","isHidden":false,"type":"audio"},{"content":{"link":"https://www.youtube.com/watch?v=BXoxxXEyUVs","text":"caption"},"id":"fee22476-4523-4228-98cf-66d20a2be7b2","isHidden":false,"type":"videourl"},{"content":{"text":"Bodytext ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna eget est lorem ipsum dolor sit amet. Mi tempus imperdiet nulla  art dain Dain malesuada pellentesque. Tortor vitae purus faucibus ornare suspendisse sed. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Non consectetur a erat nam at lectus urna duis convallis. Cursus euismod quis viverra nibh. Ut faucibus pulvinar elementum integer enim neque volutpat. Eu consequat ac felis donec et odio pellentesque. Nunc faucibus a pellentesque sit. Eu sem integer vitae justo eget magna fermentum. Bibendum arcu vitae elementum curabitur vitae nunc. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Molestie at elementum eu facilisis sed odio morbi quis commodo.Bodytext ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore object et dolore magna aliqua. Magna eget est lorem ipsum dolor sit amet. Mi tempus imperdiet nulla malesuada pellentesque. Tortor vitae purus faucibus ornare suspendisse sed. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Non consectetur a erat nam at lectus urna duis convallis. Cursus euismod quis viverra nibh. Ut Object faucibus pulvinar elementum integer enim neque volutpat. Eu consequat ac felis donec et odio pellentesque. Nunc faucibus a pellentesque sit. Eu sem integer vitae justo eget magna fermentum. Bibendum arcu vitae elementum curabitur vitae nunc. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Molestie at elementum eu facilisis sed odio morbi quis commodo."},"id":"109cd673-3319-4e25-a1dd-8e32eb8e5b8d","isHidden":false,"type":"text"},{"content":{"footnote_text":"Footnote or small text: Lorem Ipsum Dolor tacit monkulor. Fusit adoc dakor. Megan lokuldas Migor stattut."},"id":"64bed30b-c936-42f1-8f3d-e4d8a3ccae6b","isHidden":false,"type":"footnote"},{"content":{"text":"<ul><li>list1</li><li>list2</li><li>list3</li><li>list4</li><li>lst5</li></ul>"},"id":"a6efdfe1-7831-42ad-963b-ee8444fbd884","isHidden":false,"type":"list"},{"content":{"text":"Quote here lorem ipsum dolor audit. Dorum aslafo Mirakal. Iridium tronuxic clamat ecce.","citation":"Text Source: Lorem Ipsum Dolor tacit monkulor. Fusit adoc dakor. Megan lokuldas Migor stattut."},"id":"224e62b5-2716-4691-9e3a-954a1aedaca1","isHidden":false,"type":"quote"},{"content":{"image_content2":["file://VrO8kQRHwEEhAWNX"]},"id":"3711c7eb-fc85-4c27-bcd0-d7df7195c4f6","isHidden":false,"type":"cimg"},{"content":{"image_content2":["file://abRZReoL5PXOLEcH"]},"id":"6f1a8f2c-d84c-4531-97f3-a88820722b7d","isHidden":false,"type":"cimg"},{"content":{"level":"h2","text":"H2 Heading"},"id":"ebcbb0ca-1789-4218-b1f1-138f7416c440","isHidden":false,"type":"heading"},{"content":{"irritated_text":"Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.","my_text":"Annotations TextAnnotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.","text_source":"Text Source: Lorem Ipsum Dolor tacit monkulor. Fusit adoc dakor. Megan lokuldas Migor stattut."},"id":"d93baa19-8b6d-41cf-b790-09aa83cfefe6","isHidden":false,"type":"irritatedtext"},{"content":{"irritated_text":"Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.","my_text":"Annotations TextAnnotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.Annotations text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum.","text_source":"Text Source: Lorem Ipsum Dolor tacit monkulor. Fusit adoc dakor. Megan lokuldas Migor stattut."},"id":"1716f623-abdc-4bee-82fd-8470c84b61af","isHidden":false,"type":"irritatedtext"},{"content":[],"id":"6c0da83f-7854-403a-bfd8-7a54ed753027","isHidden":false,"type":"line"},{"content":{"level":"h2","text":"H2 Subheadline"},"id":"f423e347-eb0e-4758-9730-d6f77526f179","isHidden":false,"type":"heading"},{"content":{"text":"Bodytext ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna eget est lorem ipsum dolor sit amet. Mi tempus imperdiet nulla malesuada pellentesque. Tortor vitae purus faucibus ornare suspendisse sed. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Non consectetur a erat nam at lectus urna duis convallis. Cursus euismod quis viverra nibh. Ut faucibus pulvinar elementum integer enim neque volutpat. Eu consequat ac felis donec et odio pellentesque. Nunc faucibus a pellentesque sit. Eu sem integer vitae justo eget magna fermentum. Bibendum arcu vitae elementum curabitur vitae nunc. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Molestie at elementum eu facilisis sed odio morbi quis commodo.Bodytext ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna eget est lorem ipsum dolor sit amet. Mi tempus imperdiet nulla malesuada pellentesque. Tortor vitae purus faucibus ornare suspendisse sed. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Porta non pulvinar neque laoreet suspendisse interdum consectetur. Non consectetur a erat nam at lectus urna duis convallis. Cursus euismod quis viverra nibh. Ut faucibus pulvinar elementum integer enim neque volutpat. Eu consequat ac felis donec et odio pellentesque. Nunc faucibus a pellentesque sit. Eu sem integer vitae justo eget magna fermentum. Bibendum arcu vitae elementum curabitur vitae nunc. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Molestie at elementum eu facilisis sed odio morbi quis commodo."},"id":"dd08cb44-064d-43de-8cc0-6aef6f885c8f","isHidden":false,"type":"text"},{"content":{"irritated_text":"Quote here lorem ipsum dolor audit. Dorum aslafo Mirakal. Iridium tronuxic clamat ecce","text_source":"text source text sourcetext sourcetext sourcetext source"},"id":"769df851-0a4b-42e0-b483-403deac15e6f","isHidden":false,"type":"irritatedquote"},{"content":[],"id":"1704ad96-83e8-41dc-9d6b-a00bec0ecf4c","isHidden":false,"type":"line"},{"content":{"pdf_file":["file://DzMkuJ3UQ8ni30PI"],"file_text":"Explanation for file if needed text here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum  Lorem ipsum."},"id":"a07b5b07-12c0-426c-9b66-5a214601c0c1","isHidden":false,"type":"pdfdownload"},{"content":{"image_content2":["file://lNyJZRcNWFVhrQsq","file://wTJ5h4mTVC3mIU1J","file://QXAb9X7mm1N32tnD","file://sOmnnj04JwdgiiO9","file://qSniYEBEdjoDcAgK"]},"id":"e97ae53b-02f3-4b44-9ad0-fd771bfffb0e","isHidden":false,"type":"galleryimg"},{"content":{"special_link":"https://example.com"},"id":"ea2bb32f-0ff1-41f5-a7a0-4108b226b0a1","isHidden":false,"type":"speciallink"}]
+
+----
+
+Entity-type: knowledge
+
+----
+
+Coretheme: knowledge, resitution
+
+----
+
+Subtheme: option1, option8, option5, option7, option4
+
+----
+
+Dynamic-category:
+
+- 
+  category_box_name: material
+  category_box: wood
+- 
+  category_box_name: testcate2
+  category_box: test2
+
+----
+
+Number-toa: 123
+
+----
+
+Provenance: sbla
+
+----
+
+Source-of-origin: blabla, test, sadfsdaf
+
+----
+
+Date-of-collection: bal, data123123
+
+----
+
+Measurse: 12X123cm
+
+----
+
+Location: berlin
+
+----
+
+Glossary-of-entity: Art, object
+
+----
+
+Uuid: 3dF41oIZdS97VGkY

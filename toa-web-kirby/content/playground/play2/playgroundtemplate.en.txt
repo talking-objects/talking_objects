@@ -1,0 +1,25 @@
+Title: play2
+
+----
+
+Timestamp: 2024-09-06
+
+----
+
+Author: Sein Park
+
+----
+
+Playground-item-blurb: Annotations here labore et dolore magna aliqua. Ut enim ad minim veniam, Annotations here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumAnnotations here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumAnnotations here labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+
+----
+
+Contents: [{"content":{"chat_structure":[{"question":"Blurb here lorem ipsum dolor Lorem ip?","answer":"Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor","answer_text_source":"Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, c"}]},"id":"6198a70f-4111-4082-8c24-23ad685f7817","isHidden":false,"type":"chatbox"},{"content":{"collection_obj_title":"obj8","collection_obj":"obj8","collection_obj_text":"sdfsdfsadfasdfasdf"},"id":"78bfb4c2-0c51-4398-9a22-b457bd758ae2","isHidden":false,"type":"obj"},{"content":{"collection_obj_title":"sadfsd","collection_obj":"obj1","collection_obj_text":""},"id":"f1b7e009-c745-45e1-bbb7-3d8ad8a6736d","isHidden":false,"type":"obj"},{"content":{"collection_obj_title":"sdaf","collection_obj":"obj11","collection_obj_text":"sadf"},"id":"e195d04b-2698-4ebf-b2bb-b99dd5b27dd3","isHidden":false,"type":"obj"},{"content":{"my_text":"Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor","text_source":"Blurb here lorem ip"},"id":"a14f7fee-7c96-4b49-8ae2-b4a80caf7c4d","isHidden":false,"type":"xraytext"},{"content":{"audio_contents":["file://xQn5II9iKM8egw32"],"captions":"sdfsadfsdaf"},"id":"630ec93d-570d-482b-807e-825d51d30828","isHidden":false,"type":"audio"}]
+
+----
+
+Glossary-of-playground: 
+
+----
+
+Uuid: bjcoqlpSwRZafgFi

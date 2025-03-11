@@ -1,0 +1,28 @@
+version: "3"
+services: 
+  toa_web_con:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: toa_web_con
+    restart: always
+    # ports:
+    #   - "3000:3000"  # Remove After Deployment
+    expose:
+      - "3000" # After Deployment
+    env_file:
+      - .env.local
+    environment:
+      # - VIRTUAL_HOST=staging.talkingobjectsarchive.org    # Nginx Proxy
+      - VIRTUAL_HOST=talkingobjectsarchive.org,www.talkingobjectsarchive.org    # Nginx Proxy
+      - VIRTUAL_PORT=3000
+      # - LETSENCRYPT_HOST=staging.talkingobjectsarchive.org   # SSL Domain
+      - LETSENCRYPT_HOST=talkingobjectsarchive.org,www.talkingobjectsarchive.org   # SSL Domain
+      - LETSENCRYPT_EMAIL=dain-p@visual-intelligence.org # SSL Email
+    networks:
+      - shared_network
+ 
+
+networks:
+  shared_network:
+    external: true

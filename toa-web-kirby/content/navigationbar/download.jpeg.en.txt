@@ -1,0 +1,5 @@
+Uuid: KtUE7kwGjLAHN28x
+
+----
+
+Template: object-meta

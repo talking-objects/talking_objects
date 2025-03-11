@@ -1,0 +1,89 @@
+title: Home
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      h_section_1:
+        type: fields
+        fields:
+          info_1:
+            type: info
+            label:
+            text: Section 1 ~ 2(Header)
+          home_header:
+            width: 1/2
+            label: Home header text
+            type: text
+            required: true
+          home_sub_header:
+            width: 1/2
+            label: Home sub header text
+            type: text
+            required: true
+          info_2:
+            type: info
+            label:
+            text: Section 3(About)
+          home_about_title:
+            type: text
+            width: 1/2
+            label: About page block title
+            required: true
+          open_about_btn:
+            type: text
+            label: Read More About Button Text
+            width: 1/2
+            required: true
+          home_about_text:
+            type: textarea
+            width: 1/1
+            label: About page block text
+            buttons: false
+            required: true
+          info_3:
+            type: info
+            label:
+            text: Section 4(Playground)
+          home_playground_title:
+            type: text
+            width: 1/2
+            label: Playground page block title
+            required: true
+          open_playground_btn:
+            type: text
+            label: Read More Playground Button Text
+            width: 1/2
+            required: true
+          home_playground_text:
+            type: textarea
+            width: 1/1
+            label: Playground page block text
+            buttons: false
+            required: true
+          info_4:
+            type: info
+            label:
+            text: Section 5(Team)
+            required: true
+          home_team_title:
+            type: text
+            width: 1/2
+            label: Team page block title
+            required: true
+          open_team_btn:
+            type: text
+            label: Read More Team Button Text
+            width: 1/2
+            required: true
+          home_team_text:
+            type: textarea
+            width: 1/1
+            label: Team page block text
+            buttons: false
+            required: true
+ 
+
+
+
+

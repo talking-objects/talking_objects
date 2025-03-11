@@ -1,0 +1,16 @@
+name: EVA Link
+label: EVA Link
+icon: url
+wysiwyg: true
+preview: fields
+fields:
+  special_link:
+    label: URL
+    required: true
+    type: link
+  link_text:
+    label: Text
+    required: true
+    type: text
+    buttons: false
+    maxlength: 55

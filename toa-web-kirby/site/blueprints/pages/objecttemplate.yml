@@ -1,0 +1,387 @@
+title: ObjectTemplate
+
+columns:
+  main:
+    width: 2/3
+    sticky: false
+    sections:
+      cover_section:
+        type: fields
+        fields:
+          info_cover:
+            label:
+            type: info
+            text: Cover Section &darr;
+          coverimage:
+            label: Cover image
+            type: files
+            layout: list
+            required: false
+            translate: false
+            image:
+              ratio: 1/1
+              cover: true
+            width: 1/1
+            query: kirby.page('imgs').files.filterBy('type', 'image') 
+            # query: site.files.filterBy('type', 'image')
+            max: 1
+            uploads:
+              parent: kirby.page('imgs')
+              template: object-cover
+            help: max file size 15mb
+          cover_xray:
+            label: Cover Text Xray
+            type: toggle
+            width: 1/3
+            default: false
+            text:
+              - "no"
+              - "yes"
+          cover_text:
+            label: Cover Text
+            help: max.n
+            type: textarea
+            required: false
+            buttons: false
+            width: 2/3
+          preview_text:
+            label: Preview Text
+            help: max.200
+            type: textarea
+            required: false
+            buttons: false
+            width: 3/3
+            maxlength: 200
+          cover_source:
+            label: Cover Text Source
+            type: textarea
+            buttons: false
+            required: true
+            when: 
+              cover_xray: true
+      main_file_section:
+        type: fields
+        fields:
+          info_main_file:
+            label:
+            type: info
+            text: Main File Section &darr;
+          object_file_type:
+            label: Object File Type
+            type: select
+            required: true
+            default: videourl
+            translate: false
+            width: 1/3
+            options:
+              videourl: VideoURL
+              imagefile: Image
+              audiofile: Audio
+              textonly: Only Text
+          object_file:
+            label: Object Video URL
+            type: url
+            width: 2/3
+            required: true
+            translate: false
+            when:
+              object_file_type: videourl
+          object_image:
+            label: Object Image
+            type: files
+            layout: list
+            required: true
+            multiple: true
+            translate: false
+            when:
+              object_file_type: imagefile
+            image:
+              ratio: 1/1
+              cover: true
+            width: 2/3
+            query: kirby.page('imgs').files.filterBy('type', 'image') 
+            max: 1
+            uploads:
+              parent: kirby.page('imgs')
+              template: object-cover
+            help: max file size 15mb
+          object_image_layout:
+            label: Object Image Layout
+            type: toggle
+            translate: false
+            text: 
+              - "no"
+              - "yes"
+            when:
+              object_file_type: imagefile
+            image:
+              ratio: 1/1
+              cover: true
+            width: 1/1
+            query: kirby.page('imgs').files.filterBy('type', 'image') 
+            uploads:
+              parent: kirby.page('imgs')
+              template: object-data
+            help: max file size 5MB
+          object_audio:
+            label: Object Audio
+            type: files
+            layout: list
+            required: true
+            multiple: true
+            max: 5
+            when:
+              object_file_type: audiofile
+            image:
+              ratio: 1/1
+              cover: true
+            width: 2/3
+            query: kirby.page('imgs').files.filterBy('type', 'audio')
+            uploads:
+              parent: kirby.page('imgs')
+              template: object-audio
+            help: max.5, max file size 800kb
+      relation_section:
+        type: fields
+        fields:
+          info_relation:
+            label:
+            type: info
+            text: Relations Section &darr;
+          knowledgeobjs:
+            label: Knowledge entities
+            type: tags
+            icon: file-document
+            width: 1/2
+            accept: options
+            translate: false
+            max: 7
+            options:
+              type: query
+              query: page("objects").children.not(page).pluck('title')
+          relatedobjs:
+            label: Curated entities
+            type: tags
+            icon: file-document
+            width: 1/2
+            accept: options
+            translate: false
+            max: 7
+            options:
+              type: query
+              query: page("objects").children.not(page).pluck('title')
+          creator:
+            label: Creator
+            type: tags
+            icon: users
+            width: 1/2
+            accept: options
+            translate: false
+            options:
+              type: query
+              query: page("person").children.filterBy("person_category", "creator").pluck('title')
+          contributor:
+            label: Contributor
+            type: tags
+            icon: users
+            width: 1/2
+            accept: options
+            translate: false
+            options:
+              type: query
+              query: page("person").children.pluck('title')
+      content_section:
+        type: fields
+        fields:
+          info_content:
+            label:
+            type: info
+            text: Content Section &darr;
+          contents:
+            type: blocks
+            fieldsets:
+               text:
+                label: Text
+                type: group
+                fieldsets:
+                  - heading
+                  - text
+                  - list
+                  - quote
+                  - footnote
+                  - irritatedtext
+                  - irritatedquote
+                  - chatbox
+                  - xraytext
+               media:
+                label: Media
+                type: group
+                fieldsets:
+                  - cimg
+                  - galleryimg
+                  - videourl
+                  - pdfdownload
+                  - audio
+               etc:
+                label: Misc
+                type: group
+                fieldsets:
+                  - line
+                  - speciallink
+
+  meta:
+    width: 1/3
+    sticky: false
+    sections:
+      meta_section:
+        type: fields
+        fields:
+          info_entity:
+            label:
+            type: info
+            text: Entity type &darr;
+          entity_type:
+            label: Knowledge Object or Object Entity?
+            type: radio
+            translate: false
+            required: true
+            options:
+              knowledge: Knowledge Object
+              object: Object Entity
+          info_theme:
+            label:
+            type: info
+            text: Select Core Theme, Subtheme and Dynamic theme &darr;
+          coretheme:
+            label: Core Theme
+            type: tags
+            required: true
+            width: 1/2
+            accept: options
+            translate: false
+            options:
+              knowledge: Knowledge
+              resitution: Restitution / Reclaimation
+              identity: Identity
+              artisticreflections: Artistic Reflection
+              memory: Memory & the Imaginary
+          subtheme:
+            label: Sub Theme
+            type: tags
+            width: 1/2
+            required: true
+            translate: false
+            accept: options
+            options:
+              option1: African Philosophy
+              option2: Healing
+              # option3: Performance # Remove
+              option4: African Cities
+              option5: Nature
+              option6: Black studies
+              option7: Indigenous culture
+              option8: Museum Practice
+              option9: Archive Practice
+              option10: Afro-feminism
+              option11: Colonial violence
+              option12: Indigenous Aesthetics
+              option13: Music
+              option14: Performance/Spoken Word
+              option15: Oral History
+          dynamic_category:
+            label: Dynamic Theme
+            type: structure
+            fields:
+              category_box_name:
+                label: category name
+                type: tags
+                width: 1/1
+                max: 1
+                required: true
+                options: query
+                query: site.find('objects').pluckCategoryNames
+              category_box:
+                label: cate
+                type: tags
+                width: 1/1
+                required: true
+                options: query
+                query: site.find('objects').pluckCategoryBoxes
+          info_metadata:
+            label:
+            type: info
+            text: Metadata of the entity &darr;
+          number_toa:
+            label: Number TOA
+            type: text
+            icon: text
+            width: 1/2
+            translate: false
+            # options:
+            #   type: query
+            #   query: page("objects").children.pluck('number_toa', ',')
+          year_of_object:
+            type: text
+            label: Year of Production
+            translate: false
+          provenance:
+            label: Provenance
+            type: text
+            icon: text
+            width: 1/2
+            translate: false
+            # options:
+            #   type: query
+            #   query: page("objects").children.pluck('provenance', ',')
+          source_of_origin:
+            label: Source of Origin
+            type: tags
+            icon: tag
+            width: 1/2
+            options:
+              type: query
+              query: page("objects").children.pluck('source_of_origin', ',')
+          date_of_collection:
+            label: Date of Collection
+            type: tags
+            icon: tag
+            width: 1/2
+            translate: false
+            options:
+              type: query
+              query: page("objects").children.pluck('data_of_collection', ',')
+          measurse:
+            label: Measurement
+            type: tags
+            icon: tag
+            width: 1/2
+            translate: false
+            options:
+              type: query
+              query: page("objects").children.pluck('measurse', ',')
+          location:
+            label: Location
+            type: tags
+            icon: tag
+            width: 1/2
+            options:
+              type: query
+              query: page("objects").children.pluck('location', ',')
+          info_glossary:
+            label:
+            type: info
+            text: Glossary &darr;
+          glossary_of_entity:
+            label: Terms
+            type: tags
+            icon: file-document
+            width: 1/1
+            accept: options
+            translate: false
+            options:
+              type: query
+              query: page('glossary').glossary_list.toStructure.pluck('word_name')
+         
+
+
+

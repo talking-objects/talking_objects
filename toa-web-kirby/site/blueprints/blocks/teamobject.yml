@@ -1,0 +1,28 @@
+type: obj
+label: Team
+icon: users
+wysiwyg: true
+preview: fields
+name: Team Group
+fields:
+  team_title:
+    label: Team Title
+    type: text
+    required: true
+  team_about:
+    label: Team About
+    type: textarea
+    buttons: 
+      - link
+    required: false
+  teams:
+    label: Team Members
+    type: tags
+    icon: file-document
+    width: 1/1
+    accept: options
+    translate: true
+    required: false
+    options:
+      type: query
+      query: page("person").children.pluck('title')

@@ -1,0 +1,120 @@
+Title: obj4
+
+----
+
+Coverimage: - file://Z02mZaG0trABGfDT
+
+----
+
+Cover-xray: false
+
+----
+
+Cover-text: Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis a Blurb here lorem ipsum dolor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor
+
+----
+
+Preview-text: 
+
+----
+
+Cover-source: 
+
+----
+
+Object-file-type: videourl
+
+----
+
+Object-file: https://www.youtube.com/watch?v=BXoxxXEyUVs
+
+----
+
+Object-image: 
+
+----
+
+Object-image-layout: false
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: 
+
+----
+
+Relatedobjs: 
+
+----
+
+Creator: p1, p5
+
+----
+
+Contributor: 
+
+----
+
+Contents: 
+
+----
+
+Entity-type: object
+
+----
+
+Coretheme: memory, artisticreflections
+
+----
+
+Subtheme: option1, option8, option5, option7, option4
+
+----
+
+Dynamic-category:
+
+- 
+  category_box_name: material
+  category_box: wood
+- 
+  category_box_name: testcate2
+  category_box: test2
+
+----
+
+Number-toa: 123
+
+----
+
+Year-of-object: 1231
+
+----
+
+Provenance: sbla
+
+----
+
+Source-of-origin: blabla, test, sadfsdaf
+
+----
+
+Date-of-collection: bal, data123123
+
+----
+
+Measurse: 12X123cm
+
+----
+
+Location: berlin
+
+----
+
+Glossary-of-entity: Art, object
+
+----
+
+Uuid: ubVf8DEJOKsYtqgv

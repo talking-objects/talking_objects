@@ -1,0 +1,35 @@
+title: Team
+
+columns:
+  main:
+    width: 1/1
+    sections:
+      main_section:
+        type: fields
+        fields:
+          info_header:
+            type: info
+            label:
+            text: Team Page
+          team_title:
+            label: Team Page Title
+            type: text
+            required: true
+          team_header:
+            label: Team Page Header Text
+            type: textarea
+            buttons: false
+            required: true
+          info_content:
+            type: info
+            label:
+            text: Team Page Content
+          contents:
+            type: blocks
+            label: Team Page Content
+            translate: true
+            fieldsets:
+              - heading
+              - teamobject
+              - text
+

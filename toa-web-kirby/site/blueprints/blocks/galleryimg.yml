@@ -1,0 +1,21 @@
+name: Images Gallery
+label: Images Gallery
+icon: images
+wysiwyg: true
+preview: fields
+fields:
+ image_content2:
+     label: Images
+     type: files
+     layout: list
+     required: true
+     image:
+       ratio: 1/1
+       cover: true
+     width: 1/1
+     query: kirby.page('imgs').files.filterBy('type', 'image') 
+     max: 8
+     uploads:
+       parent: kirby.page('imgs')
+       template: object-cover
+     help: "maximum file size 5mb, maximum image count: 6"

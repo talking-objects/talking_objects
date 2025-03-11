@@ -1,0 +1,181 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+@font-face {
+    font-family: "WritingObjects";
+    /* src: url("/assets/fonts/wrtingobjects.otf") format("opentype"); */
+    src: url("/assets/fonts/WritingObjects-Regular.woff") format("woff");
+}
+@font-face {
+    font-family: "IBMMonoBoldItalic";
+    src: url("/assets/fonts/IBMPlexMono-BoldItalic.ttf");
+}
+@font-face {
+    font-family: "IBMSansRegular";
+    src: url("/assets/fonts/IBMPlexSans-Regular.ttf");
+}
+@font-face {
+    font-family: "IBMSansMedium";
+    src: url("/assets/fonts/IBMPlexSans-Medium.ttf");
+}
+@font-face {
+    font-family: "IBMMonoBold";
+    src: url("/assets/fonts/IBMPlexMono-Bold.ttf");
+}
+@font-face {
+    font-family: "IBMMonoMedium";
+    src: url("/assets/fonts/IBMPlexMono-Medium.ttf");
+}
+@font-face {
+    font-family: "IBMMonoSemiBold";
+    src: url("/assets/fonts/IBMPlexMono-SemiBold.ttf");
+}
+@font-face {
+    font-family: "IBMSansSemiBoldItaltic";
+    src: url("/assets/fonts/IBMPlexSans-SemiBoldItalic.ttf");
+}
+@font-face {
+    font-family: "IBMMono";
+    src: url("/assets/fonts/IBMPlexMono-Regular.ttf");
+}
+@font-face {
+    font-family: "IBMSansLight";
+    src: url("/assets/fonts/IBMPlexSans-Light.ttf");
+}
+
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+select::-ms-expand {
+    display: none;
+ }
+@layer base{
+   
+    
+    *{
+        @apply selection:bg-toa-yellow
+        
+    }
+    html {
+        @apply scroll-smooth
+    }
+    body{
+        @apply bg-white
+    }
+  
+    a{
+        @apply text-toa-violet
+    }
+    li{
+        @apply list-disc translate-x-4
+    }
+    .custom-list li{
+        @apply list-disc
+    }
+    .termbox span {
+        @apply inline break-words
+    }
+    .termbox span p {
+        @apply inline break-words
+    }
+    .termbox span strong {
+        @apply inline break-words
+    }
+    .termbox span strong {
+        @apply inline break-words
+    }
+    .termWord {
+        @apply text-toa-orange cursor-pointer font-bold
+    }
+}
+
+@layer components{
+    .global-padding {
+        @apply px-4
+    }
+    .select-none{
+        user-select: none;
+        -webkit-user-select: none;
+       
+    }
+
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: white !important;
+}
+.swiper-pagination-bullet{
+  background-color: black !important;
+}
+
+
+
+.range-custom {
+    -webkit-appearance: none;
+    appearance: none; 
+    cursor: pointer;
+    outline: none;
+    border-radius: 0px;
+    height: 100%;
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+  }
+  
+  .range-custom::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none; 
+    cursor: pointer;
+    outline: none;
+    border-radius: 0px;
+    background: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* display: none; */
+  }
+  
+  .range-custom::-moz-range-thumb {
+    /* display: none; */
+    -webkit-appearance: none;
+    appearance: none; 
+    cursor: pointer;
+    outline: none;
+    border-radius: 0px;
+    background: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  progress[value] {
+      /* Reset the default appearance */
+      -webkit-appearance: none;
+      appearance: none;
+  
+  }
+  /* WebKit styles */
+  progress[value]::-webkit-progress-bar {
+    background-color: rgba(255, 255, 255, 0.839);
+  
+  }
+  
+  progress[value]::-webkit-progress-value {
+    background-color: #84a6ff;
+  }
+  /* Firefox styles */
+  progress[value]::-moz-progress-bar {
+    background-color: rgb(255, 255, 255);
+  }
+  

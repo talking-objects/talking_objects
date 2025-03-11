@@ -1,0 +1,70 @@
+title: Playground
+
+tabs:
+  draftstab:
+    label: Playground Draft
+    icon: upload
+    columns:
+      objects:
+        width: 1/1
+        sections:
+          drafts:
+            headline: Write Playground & Update Playground
+            type: pages
+            help: update to public
+            layout: list
+            status: drafts
+            sortBy: title asc
+            templates:
+              - playgroundtemplate
+            limit: 10
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+  publictab:
+    label: Public Playground
+    icon: file-document
+    columns:
+      objects:
+        width: 1/1
+        sections:
+          publisched0:
+            headline: "Public: Playground"
+            type: pages
+            text: "Name: {{page.title}}"
+            # info: "CT: {{page.intendedTemplate}}"
+            layout: cards
+            status: published
+            limit: 10
+            sortBy: title asc
+            # when:
+            #   categoryobj: all
+            image:
+              ratio: 1/1
+              cover: true
+              query: page.coverimage.toFile
+  playgroundtexttab:
+    label: Playground Page Text
+    icon: text
+    columns:
+      playground_about:
+        sections:
+          fields:
+            type: fields
+            fields:
+              playground_title:
+                type: text
+                label: Playground Page title
+              playground_header_text:
+                type: textarea
+                label: Playground Page header text
+                buttons: false
+              playground_header_btn:
+                type: text
+                label: Playground Page Enter Button Text ex. Enter Playground
+
+
+
+
+

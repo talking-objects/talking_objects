@@ -1,0 +1,12 @@
+title: Object Audio
+# accept: image/*
+accept:
+  extension: mp3, wav, ogg, m4a
+  maxsize: 30000000 # 30MB
+fields:
+  caption:
+    label: Caption
+    type: text
+  alt:
+    label: Alternative Text
+    type: text

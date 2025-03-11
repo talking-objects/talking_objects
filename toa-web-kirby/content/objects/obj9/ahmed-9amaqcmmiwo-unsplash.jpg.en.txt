@@ -1,0 +1,21 @@
+Layer1-left: 30
+
+----
+
+Layer1-right: 40
+
+----
+
+Layer2-left: 90
+
+----
+
+Layer2-right: 90
+
+----
+
+Uuid: x2QkD32SekQndGWD
+
+----
+
+Template: object-cover

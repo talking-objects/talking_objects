@@ -1,0 +1,25 @@
+Title: p6
+
+----
+
+Fullname: p6
+
+----
+
+Jobtitle: 
+
+----
+
+Person-category: creator
+
+----
+
+Coverimage: - file://abRZReoL5PXOLEcH
+
+----
+
+Bio: 
+
+----
+
+Uuid: kOZNJj15P6eMEl8O

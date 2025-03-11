@@ -1,0 +1,22 @@
+name: File Download
+label: File Download
+icon: download
+wysiwyg: true
+preview: fields
+fields:
+  pdf_file:
+    label: PDF
+    type: files
+    layout: list
+    required: true
+    width: 1/1
+    max: 1
+    query: kirby.page('imgs').files.filterBy('extension', 'pdf')
+    uploads:
+      parent: kirby.page('imgs')
+      template: object-pdf
+    help: max file size 5mb
+  file_text:
+    label: Text about the file
+    type: textarea
+

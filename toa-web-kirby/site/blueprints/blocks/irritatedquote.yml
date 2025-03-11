@@ -1,0 +1,23 @@
+name: Irritated Quote
+label: Irritated Quote
+icon: quote
+wysiwyg: true
+preview: fields
+fields:
+   irritated_text:
+      width: 1/1
+      label: Irritated Quote
+      type: textarea
+      required: true
+      buttons: 
+         - bold 
+         - ul
+   text_source:
+      width: 1/1
+      label: Text Source
+      type: textarea
+      required: true
+      buttons: 
+         - bold 
+         - ul
+     

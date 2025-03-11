@@ -1,0 +1,93 @@
+Title: obj8
+
+----
+
+Coverimage: - file://sOmnnj04JwdgiiO9
+
+----
+
+Cover-text: sadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdfsadfsdf
+
+----
+
+Object-file-type: videourl
+
+----
+
+Object-file: https://www.exmaple.com
+
+----
+
+Object-image: 
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: 
+
+----
+
+Relatedobjs: 
+
+----
+
+Creator: p1
+
+----
+
+Contributor: p1
+
+----
+
+Contents: 
+
+----
+
+Entity-type: knowledge
+
+----
+
+Coretheme: identity
+
+----
+
+Subtheme: option1, option3, option2
+
+----
+
+Dynamic-category: 
+
+----
+
+Number-toa: 
+
+----
+
+Provenance: 
+
+----
+
+Source-of-origin: 
+
+----
+
+Date-of-collection: 
+
+----
+
+Measurse: 
+
+----
+
+Location: 
+
+----
+
+Glossary-of-entity: 
+
+----
+
+Uuid: ZGlCYHQODBsnlwWD

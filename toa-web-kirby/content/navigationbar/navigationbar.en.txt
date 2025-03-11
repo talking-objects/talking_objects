@@ -1,0 +1,45 @@
+Title: General
+
+----
+
+Nav-title: Talking Objects Archive
+
+----
+
+Nav-menu: Menu
+
+----
+
+Nav-3d: Universe View
+
+----
+
+Meta-title: Talking objects
+
+----
+
+Meta-description: description about talking objects
+
+----
+
+Meta-image: - file://KtUE7kwGjLAHN28x
+
+----
+
+Meta-subject: objects
+
+----
+
+Meta-keyword: objects, talking, material, hohoh, easypeasy
+
+----
+
+Meta-author: dain
+
+----
+
+Meta-copyright: copy toa
+
+----
+
+Uuid: z5NOeiFeTzFEOKnw

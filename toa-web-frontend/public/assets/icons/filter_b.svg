@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="filterIcon" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+        fill: rgb(0, 0, 0 );
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="41.77" y="65.52" width="168.4" height="11.34"/>
+  <rect class="cls-1" x="41.77" y="114.94" width="168.4" height="11.34"/>
+  <rect class="cls-1" x="41.12" y="164.35" width="168.4" height="11.34"/>
+  <rect class="cls-1" x="63.21" y="47.95" width="45.82" height="45.82" rx="9.59" ry="9.59"/>
+  <rect class="cls-1" x="145.72" y="97.7" width="45.82" height="45.82" rx="9.59" ry="9.59"/>
+  <rect class="cls-1" x="63.21" y="147.11" width="45.82" height="45.82" rx="9.59" ry="9.59"/>
+</svg>

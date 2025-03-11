@@ -1,0 +1,30 @@
+name: Select Entities
+label: Object Block
+icon: box
+wysiwyg: true
+preview: fields
+fields:
+  collection_obj_title:
+    label: Title
+    type: text
+  collection_obj:
+    label: Select Entity
+    type: tags
+    icon: file-document
+    width: 1/1
+    accept: options
+    translate: false
+    max: 1
+    options:
+      type: query
+      query: page("objects").children.not(page).pluck('title')
+  collection_obj_text:
+    label: Entity text
+    type: textarea
+    buttons: 
+      - bold 
+      - ul
+      # - link
+      # - ol
+      # - email
+

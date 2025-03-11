@@ -1,0 +1,105 @@
+Title: obj7
+
+----
+
+Coverimage: - file://wTJ5h4mTVC3mIU1J
+
+----
+
+Cover-xray: false
+
+----
+
+Cover-text: 
+
+----
+
+Cover-source: 
+
+----
+
+Object-file-type: videourl
+
+----
+
+Object-file: https://www.exmaple.com
+
+----
+
+Object-image: 
+
+----
+
+Object-image-layout: false
+
+----
+
+Object-audio: 
+
+----
+
+Knowledgeobjs: 
+
+----
+
+Relatedobjs: 
+
+----
+
+Creator: p1
+
+----
+
+Contributor: p1
+
+----
+
+Contents: 
+
+----
+
+Entity-type: knowledge
+
+----
+
+Coretheme: resitution, identity
+
+----
+
+Subtheme: option1, option3, option2
+
+----
+
+Dynamic-category: 
+
+----
+
+Number-toa: 
+
+----
+
+Provenance: 
+
+----
+
+Source-of-origin: 
+
+----
+
+Date-of-collection: 
+
+----
+
+Measurse: 
+
+----
+
+Location: 
+
+----
+
+Glossary-of-entity: 
+
+----
+
+Uuid: 3PRq7EBaQa2N3HN4

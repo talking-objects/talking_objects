@@ -1,0 +1,14 @@
+name: Footnote
+label: Footnote
+icon: text
+wysiwyg: true
+preview: fields
+fields:
+ footnote_text:
+     label: Footnote
+     type: textarea
+     required: true
+     buttons: 
+        - bold 
+        - ul
+     

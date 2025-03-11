@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'writingObjects';
+  src: url('../fonts/WritingObjects-svg.otf') format('otf');
+  font-weight: bold;
+  font-style: normal;
+}
+.k-site-view-header > .k-header-title{
+  font-family: writingObjects;
+}
+
+.k-tabs{
+  background-color: rgb(255, 255, 255);
+}
+
+.k-tabs-tab > a{
+
+}
+
+.k-tabs-tab > a[aria-current]:after{
+  background-color: orange;
+
+}
+
+/* .k-tab-button{
+  background-color: blue;
+} */
+/* .k-tab-button[aria-current]:after{
+  background-color: blue;
+  height: 100%;
+  mix-blend-mode: multiply;
+} */

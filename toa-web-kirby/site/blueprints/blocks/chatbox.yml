@@ -1,0 +1,26 @@
+name: Chat Box
+label: Chat Box
+icon: chat
+wysiwyg: true
+preview: fields
+fields:
+ chat_structure:
+     label: Messages
+     type: structure
+     required: true
+     fields: 
+      question:
+        label: Question
+        type: textarea
+        buttons: false
+        required: true
+      answer:
+        label: Answer
+        type: textarea
+        buttons: false
+        required: true
+      answer_text_source:
+        label: Answer Text Source
+        type: textarea
+        buttons: false
+        required: true
