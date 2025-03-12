@@ -1,7 +1,7 @@
 <?php
 // Allowed origins
 $allowedOrigins = [
-    'http://localhost:3000',
+    // 'http://localhost:3000',
     // 'http://116.203.29.185:3000',
     'https://talkingobjectsarchive.org',
     'https://www.talkingobjectsarchive.org',
@@ -45,10 +45,10 @@ return [
         'allowInsecure' => true,
         'allow' => [
             'file' => [
-                'id',       // 파일 ID 접근 허용
-                'content',  // 모든 파일 내용 필드 접근 및 수정 허용
-                'url',      // 파일 URL 접근 허용
-                'filename', // 파일 이름 접근 허용
+                'id',       // Allow access to file ID
+                'content',  // Allow access and modification of all file content fields
+                'url',      // Allow access to file URL
+                'filename', // Allow access to filename
             ],
         ],
       
